@@ -20,4 +20,5 @@ public class FruitTest {
                 .assertThat()
                 .body("[0].description", equalTo("Winter fruit"));
     }
+
 }
